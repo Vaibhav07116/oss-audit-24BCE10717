@@ -1,7 +1,7 @@
 #!/bin/bash
 # ============================================================
 # Script 3: Disk and Permission Auditor
-# Author: Sarthak   | Reg No: 24BCE10607
+# Author: Vaibhav | Reg No: 24BCE10717
 # Course: Open Source Software | OSS NGMC Capstone Project
 # Description: Loops through key system directories, reports
 #              their permissions, owner, group, and disk usage.
