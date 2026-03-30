@@ -7,8 +7,8 @@
 
 | Field | Details |
 |---|---|
-| **Student Name** | *Sarthak Kumar Yadav* |
-| **Registration Number** |  *24BCE10607*|
+| **Student Name** | *Vaibhav* |
+| **Registration Number** |  *24BCE10717*|
 | **Chosen Software** | Git |
 | **Licence of Software** | GNU General Public License v2 (GPL v2) |
 | **Course** | Open Source Software (OSS NGMC) |
