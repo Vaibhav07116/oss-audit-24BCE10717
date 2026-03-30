@@ -38,8 +38,7 @@ oss-audit-[rollnumber]/
 │   ├── script3_disk_permission_auditor.sh  ← Disk & Permission Auditor
 │   ├── script4_log_analyzer.sh        ← Log File Analyzer
 │   └── script5_manifesto_generator.sh ← Open Source Manifesto Generator
-│
-└── OSS_Audit_Git_Report.pdf           ← Project report (also submitted on portal)
+
 ```
 
 ---
