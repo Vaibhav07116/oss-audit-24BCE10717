@@ -33,11 +33,11 @@ oss-audit-[rollnumber]/
 ├── README.md                          ← This file
 │
 ├── scripts/
-│   ├── script1_system_identity.sh     ← System Identity Report
-│   ├── script2_package_inspector.sh   ← FOSS Package Inspector
-│   ├── script3_disk_permission_auditor.sh  ← Disk & Permission Auditor
-│   ├── script4_log_analyzer.sh        ← Log File Analyzer
-│   └── script5_manifesto_generator.sh ← Open Source Manifesto Generator
+    ├── script1_system_identity.sh     ← System Identity Report
+    ├── script2_package_inspector.sh   ← FOSS Package Inspector
+    ├── script3_disk_permission_auditor.sh  ← Disk & Permission Auditor
+    ├── script4_log_analyzer.sh        ← Log File Analyzer
+    └── script5_manifesto_generator.sh ← Open Source Manifesto Generator
 
 ```
 
